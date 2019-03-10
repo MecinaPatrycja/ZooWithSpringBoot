@@ -1,0 +1,101 @@
+ID	species	name	weight	IDOfZookeeper	kgOfFoodPerDay	isSociable
+1	Galapagos tortoise	Mason	41.46	6312	3.63	true
+2	Hawk-headed parrot	Rick	6.69	6312	3.36	true
+3	Common dolphin	Crystal	45.94	3637	1.94	true
+4	Cat	Luna	6.69	4923	1.84	true
+5	Tree Frog	Abdul	13.74	4923	3.26	true
+6	Weasel	Matthew	44.46	7886	0.91	true
+7	Caracal	Miley	17.15	7886	0.67	true
+8	Eurasian beaver	Luke	40.49	7886	2.63	true
+9	Frilled lizard	Benjamin	23.51	8797	2.11	true
+10	Bald Eagle	Enoch	47.66	4914	1.87	true
+11	Antelope	Chris	16.46	3596	2.56	true
+12	Wolf	Matt	45.16	3596	3.02	true
+13	Eastern white pelican	Esmeralda	29.02	3596	1.61	true
+14	Cape cobra	Chadwick	6.25	3596	3.91	true
+15	Caracal	Melody	38.73	1237	0.27	true
+16	Egyptian vulture	Nathan	16.57	2109	3.92	true
+17	Fox	Adeline	22.78	5038	2.77	true
+18	Brown hyena	Maxwell	19.69	8644	1.00	true
+19	Gaur	Nick	26.78	7906	0.26	true
+20	Caribou	Adalind	43.38	4507	3.62	true
+21	Galapagos mockingbird	Julian	20.64	4421	0.75	true
+22	Golden jackal	Noemi	38.06	7900	1.89	true
+23	Caribou	Estrella	19.14	1947	0.57	true
+24	Horse	Stacy	15.50	3018	1.54	true
+25	Chipmunk	Rylee	8.77	2252	1.92	true
+26	Griffon vulture	Mary	5.57	6704	0.56	false
+27	Lion	Emmanuelle	44.95	1267	2.00	false
+28	Gray duiker	Anne	13.17	8061	0.10	false
+29	Gerenuk	Fred	20.53	2653	0.24	false
+30	Black-tailed prairie dog	Elijah	17.70	4686	3.34	false
+31	rhinoceros	Quinn	800.9	5912	32	false
+32	Blue wildebeest	Martin	26.10	3092	2.53	false
+33	Brown lemur	Cynthia	34.71	5995	3.79	false
+34	Eagle owl	Phillip	37.36	8821	0.66	false
+35	Horse	Ramon	17.47	3568	1.10	false
+36	Gray duiker	David	14.69	4967	0.33	false
+37	Galapagos dove	Julius	4.27	7514	2.65	false
+38	Komodo dragon	Erica	12.75	6547	0.34	false
+39	Cape cobra	Javier	31.01	4911	3.59	false
+40	Greater flamingo	John	23.62	6094	1.07	false
+41	Possum	Gwen	29.37	6302	1.22	false
+42	Hippopotamus	Isabel	44.65	4048	1.75	false
+43	Horse	Alan	31.34	4737	0.36	true
+44	Wolf	Nick	29.96	6052	3.35	false
+45	Deer	Evie	16.58	3163	4.02	false
+46	Black rhinoceros	Mason	29.86	4738	3.93	false
+47	Coyote	Carmen	37.42	2824	2.40	false
+48	Indian mynah	Abdul	9.67	3637	1.00	false
+49	Cereopsis goose	Janice	6.27	4923	0.73	false
+50	Penguin	Susan	15.75	7886	1.86	false
+51	Giant armadillo	Rylee	17.74	8797	3.29	false
+52	Chicken	Carissa	33.75	4914	0.18	false
+53	Eastern cottontail rabbit	Aurelia	33.75	3596	2.60	false
+54	Common duiker	Raquel	6.55	1237	2.65	false
+55	Common zebra	Rocco	2.55	2109	0.41	false
+56	Galapagos albatross	Maxwell	3.81	5038	3.41	false
+57	Eagle owl	Domenic	49.57	6704	0.72	false
+58	Blue fox	Bryce	2.44	1267	2.67	false
+59	Avocet	Bridget	36.87	8061	2.17	false
+60	Galapagos dove	Daron	31.53	2653	2.25	false
+61	Galah	Andie	39.94	4686	3.90	false
+62	Horse	Anthony	45.03	5912	3.74	true
+63	Scorpion	Sylvia	12.26	3092	1.96	false
+64	Fringe-eared oryx	Eryn	39.42	5995	0.66	false
+65	Caracal	Vanessa	49.68	8821	2.22	false
+66	Arctic fox	Jenna	33.25	3568	0.58	false
+67	Cat	Chester	2.44	4967	3.77	false
+68	Bear	George	31.17	7514	1.73	false
+69	European stork	Nicole	20.89	6547	3.73	false
+70	Blue wildebeest	Marla	45.42	4911	2.71	false
+71	Gerenuk	Josh	38.22	6094	1.61	false
+72	Buttermilk snake	Aleksandra	25.29	6302	3.48	false
+73	Fairy penguin	Angelica	43.68	4048	2.13	false
+74	Blue peacock	Karen	44.78	4737	0.33	false
+75	Cheetah	Bryon	14.31	6052	2.02	false
+76	Eurasian hoopoe	Martin	17.89	3163	2.09	false
+77	Wallaby	Eduardo	16.23	4738	3.73	false
+78	Horse	Gil	35.29	2824	2.88	true
+79	Eagle owl	Candice	17.67	6312	0.46	false
+80	Galapagos penguin	Cedrick	13.01	3637	0.34	false
+81	Falcon	Keira	25.04	4923	3.94	false
+82	Cormorant	Chuck	23.55	7886	2.52	false
+83	Fox	Gabriel	7.54	8797	1.74	false
+84	Komodo dragon	Martin	30.85	4914	2.15	false
+85	Giant anteater	Jacqueline	19.98	3596	2.48	false
+86	Common genet	Nicholas	48.69	1237	4.08	false
+87	Common wolf	George	8.24	2109	2.26	false
+88	Kiwi	Darlene	23.30	5038	3.45	false
+89	Kiwi	Mandy	36.17	8644	1.58	false
+90	Giant armadillo	Mina	23.69	8821	3.69	false
+91	Burrowing owl	Danielle	19.12	3568	3.82	false
+92	Cat	Remy	3.93	4967	0.48	false
+93	Jungle cat	Hayden	12.60	7514	3.83	false
+94	Common pheasant	Estrella	30.62	6547	1.33	false
+95	Common duiker	Georgia	32.76	4911	0.73	false
+96	Indian tree pie	Rose	40.48	6094	2.93	false
+97	Calf	Denny	36.49	6302	2.79	false
+98	Gerenuk	Nate	3.43	4048	0.96	false
+99	Crested bunting	Gil	12.60	4737	2.60	false
+100	Elephant	Phillip	10654.61	2109	180.00	false
